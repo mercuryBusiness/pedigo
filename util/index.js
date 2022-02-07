@@ -21,9 +21,6 @@ export class AppUtil {
     return data;
   }
 
-  /**
-   * 转千分制
-   */
   static format(t) {
     return Number(t)
       .toFixed(2)
