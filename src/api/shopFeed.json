@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "itemImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEaZqT3fHeNrPGcnjLLX1v_W4mvBlgpwxnA&usqp=CAU",
+    "itemName": "Mickey Mouseprint cardigan and jeans set",
+    "deliveryType": "Free Delivery",
+    "price": "Rp 479.000",
+    "leftItem": "Only 1 left",
+    "orgPrice": "Rp 899.000"
+  },
+  {
+    "id": 2,
+    "itemImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEaZqT3fHeNrPGcnjLLX1v_W4mvBlgpwxnA&usqp=CAU",
+    "itemName": "Mickey Mouseprint cardigan and jeans set",
+    "deliveryType": "Free Delivery",
+    "price": "Rp 479.000",
+    "orgPrice": "Rp 899.000"
+  },
+  {
+    "id": 3,
+    "itemImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEaZqT3fHeNrPGcnjLLX1v_W4mvBlgpwxnA&usqp=CAU",
+    "itemName": "Mickey Mouseprint cardigan and jeans set",
+    "deliveryType": "Free Delivery",
+    "soldOut": "SOLD OUT"
+  },
+  {
+    "id": 4,
+    "itemImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEaZqT3fHeNrPGcnjLLX1v_W4mvBlgpwxnA&usqp=CAU",
+    "itemName": "Mickey Mouseprint cardigan and jeans set",
+    "deliveryType": "Free Delivery",
+    "price": "Rp 479.000",
+    "orgPrice": "Rp 899.000"
+  },
+  {
+    "id": 5,
+    "itemImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEaZqT3fHeNrPGcnjLLX1v_W4mvBlgpwxnA&usqp=CAU",
+    "itemName": "Mickey Mouseprint cardigan and jeans set",
+    "deliveryType": "Free Delivery",
+    "price": "Rp 479.000",
+    "orgPrice": "Rp 899.000"
+  },
+  {
+    "id": 6,
+    "itemImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEaZqT3fHeNrPGcnjLLX1v_W4mvBlgpwxnA&usqp=CAU",
+    "itemName": "Mickey Mouseprint cardigan and jeans set",
+    "deliveryType": "Free Delivery",
+    "price": "Rp 479.000",
+    "orgPrice": "Rp 899.000"
+  }
+]

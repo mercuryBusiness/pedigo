@@ -1,0 +1,31 @@
+[{
+    "id": 0,
+    "name": "Whatsapp",
+    "Iconname": "whatsapp"
+},
+{
+    "id": 1,
+    "name": "Line",
+    "Iconname": "link"
+},
+{
+    "id": 2,
+    "name": "Telegram",
+    "Iconname": "telegram"
+},
+{
+    "id": 3,
+    "name": "Copy link",
+    "Iconname": "clone"
+},
+{
+    "id": 4,
+    "name": "Not Interested",
+    "Iconname": "ban"
+},
+{
+    "id": 5,
+    "name": "Report",
+    "Iconname": "exclamation-triangle"
+}
+]

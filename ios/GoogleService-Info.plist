@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>907581750443-gmiib81cpm3j2jj8fule6tsncpe7df2r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.907581750443-gmiib81cpm3j2jj8fule6tsncpe7df2r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFbBrkmZ327o8SbbfNJpdID2FymHxYdA4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>907581750443</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.freeFuse</string>
+	<key>PROJECT_ID</key>
+	<string>freefuse-285405</string>
+	<key>STORAGE_BUCKET</key>
+	<string>freefuse-285405.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:907581750443:ios:9c6059f5238b48c6ca0bee</string>
+	<key>DATABASE_URL</key>
+	<string>https://freefuse-285405.firebaseio.com</string>
+</dict>
+</plist>

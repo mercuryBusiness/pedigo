@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Jeans",
+        "imgUrl": "https://www.holidify.com/images/foodImages/8.jpg",
+        "date": "06-09-2021"
+    },
+    {
+        "id": 2,
+        "name": "Jeans",
+        "imgUrl": "https://www.holidify.com/images/foodImages/8.jpg",
+        "date": "06-09-2021"
+    },
+    {
+        "id": 3,
+        "name": "Jeans",
+        "imgUrl": "https://www.holidify.com/images/foodImages/8.jpg",
+        "date": "06-09-2021"
+    },
+    {
+        "id": 4,
+        "name": "Jeans",
+        "imgUrl": "https://www.holidify.com/images/foodImages/8.jpg",
+        "date": "06-09-2021"
+    },
+    {
+        "id": 5,
+        "name": "Jeans",
+        "imgUrl": "https://www.holidify.com/images/foodImages/8.jpg",
+        "date": "06-09-2021"
+    },
+    {
+        "id": 6,
+        "name": "Jeans",
+        "imgUrl": "https://www.holidify.com/images/foodImages/7.jpg",
+        "date": "06-09-2021"
+    },
+    {
+        "id": 7,
+        "name": "Jeans",
+        "imgUrl": "https://www.holidify.com/images/foodImages/8.jpg",
+        "date": "06-09-2021"
+    },
+    {
+        "id": 8,
+        "name": "Jeans",
+        "imgUrl": "https://www.holidify.com/images/foodImages/8.jpg",
+        "date": "06-09-2021"
+    }
+]
