@@ -59,7 +59,9 @@ export default function MainScreen({navigation}) {
       <Box px={5} style={[styles.bottomArea, {bottom: top}]}>
         <HStack justifyContent="space-between" alignItems="center" space={2}>
           <TouchableOpacity
-            onPress={() => {}}
+            onPress={() => {
+              navigation.navigate('step1');
+            }}
             style={[styles.button, {backgroundColor: 'white'}]}>
             <HStack justifyContent="center" py={3}>
               <Text color={theme_colors.subText} bold>
