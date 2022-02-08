@@ -6,6 +6,7 @@ import MainScreen from './main';
 import Step1Screen from './step1';
 import Step2Screen from './step2';
 import Step3Screen from './step3';
+import Step4Screen from './step4';
 
 const Stack = createNativeStackNavigator();
 
@@ -31,6 +32,11 @@ export default function InitScreen() {
         <Stack.Screen
           name="step3"
           component={Step3Screen}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="step4"
+          component={Step4Screen}
           options={{headerShown: false}}
         />
       </Stack.Navigator>
