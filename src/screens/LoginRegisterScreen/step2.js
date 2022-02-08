@@ -161,7 +161,9 @@ export default function Step2Screen({navigation}) {
         )}
         <HStack justifyContent="center" alignItems="center" mt={20}>
           <TouchableOpacity
-            onPress={() => {}}
+            onPress={() => {
+              navigation.navigate('step3');
+            }}
             style={[styles.button, {backgroundColor: theme_colors.primary}]}>
             <HStack justifyContent="center" py={3}>
               <Text color="white" bold>
