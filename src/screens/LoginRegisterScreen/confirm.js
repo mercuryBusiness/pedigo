@@ -36,7 +36,7 @@ export default function ConfirmScreen({navigation}) {
           <HStack justifyContent="center" alignItems="center" mt={16}>
             <TouchableOpacity
               onPress={() => {
-                // navigation.navigate('');
+                navigation.navigate('login');
               }}
               style={[styles.button, {backgroundColor: theme_colors.primary}]}>
               <HStack justifyContent="center" py={3}>

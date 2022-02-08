@@ -8,6 +8,7 @@ import Step2Screen from './step2';
 import Step3Screen from './step3';
 import Step4Screen from './step4';
 import ConfirmScreen from './confirm';
+import LoginScreen from './login';
 
 const Stack = createNativeStackNavigator();
 
@@ -43,6 +44,11 @@ export default function InitScreen() {
         <Stack.Screen
           name="confirm"
           component={ConfirmScreen}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="login"
+          component={LoginScreen}
           options={{headerShown: false}}
         />
       </Stack.Navigator>

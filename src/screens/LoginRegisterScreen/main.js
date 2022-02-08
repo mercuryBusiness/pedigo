@@ -70,7 +70,9 @@ export default function MainScreen({navigation}) {
             </HStack>
           </TouchableOpacity>
           <TouchableOpacity
-            onPress={() => {}}
+            onPress={() => {
+              navigation.navigate('login');
+            }}
             style={[styles.button, {backgroundColor: theme_colors.primary}]}>
             <HStack justifyContent="center" py={3}>
               <Text color="white" bold>
