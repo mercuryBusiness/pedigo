@@ -162,7 +162,9 @@ export default function Step1Screen({navigation}) {
       <Box px={5} style={[styles.bottomArea, {bottom: top}]}>
         <HStack justifyContent="center" alignItems="center">
           <TouchableOpacity
-            onPress={() => {}}
+            onPress={() => {
+              navigation.navigate('step2');
+            }}
             style={[styles.button, {backgroundColor: theme_colors.primary}]}>
             <HStack justifyContent="center" py={3}>
               <Text color="white" bold>

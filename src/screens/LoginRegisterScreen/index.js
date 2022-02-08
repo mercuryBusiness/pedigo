@@ -4,6 +4,7 @@ import {NavigationContainer} from '@react-navigation/native';
 
 import MainScreen from './main';
 import Step1Screen from './step1';
+import Step2Screen from './step2';
 
 const Stack = createNativeStackNavigator();
 
@@ -19,6 +20,11 @@ export default function InitScreen() {
         <Stack.Screen
           name="step1"
           component={Step1Screen}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="step2"
+          component={Step2Screen}
           options={{headerShown: false}}
         />
       </Stack.Navigator>
